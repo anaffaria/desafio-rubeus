@@ -15,7 +15,11 @@ A análise foi documentada e acompanhada em um **Kanban no Notion**.
 
 ## 📋 Relatórios e Boards de Kanban
 
-🔗 **[Teste 1: Certificação](https://www.notion.so/3138dcd0836780a8a0c6f3ce47dc70b4?v=3138dcd08367807e92cf000cfaf09ac4)**  
+🔗 **[Link Notion: Certificação](https://www.notion.so/3138dcd0836780a8a0c6f3ce47dc70b4?v=3138dcd08367807e92cf000cfaf09ac4)**
 
-🔗 **[Teste 2: Site](https://www.notion.so/3138dcd083678003a429e09dbfac5fe2?v=3138dcd0836781629452000ceaf6d029)**  
+![Certificação](https://raw.githubusercontent.com/anaffaria/desafio-rubeus/feature/test/images/Certificacao.png)
+
+🔗 **[Link Notion: Site](https://www.notion.so/3138dcd083678003a429e09dbfac5fe2?v=3138dcd0836781629452000ceaf6d029)** 
+
+![Certificação](https://raw.githubusercontent.com/anaffaria/desafio-rubeus/feature/test/images/site.png)
 
