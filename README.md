@@ -23,3 +23,24 @@ A análise foi documentada e acompanhada em um **Kanban no Notion**.
 
 ![Certificação](https://raw.githubusercontent.com/anaffaria/desafio-rubeus/feature/test/images/site.png)
 
+## 🧪 Playwright Test Project
+
+Projeto de testes automatizados utilizando **Playwright com JavaScript**, organizado por responsabilidade para facilitar manutenção e escalabilidade.
+
+---
+
+## 📁 Estrutura de Pastas
+
+```text
+tests/
+├── data/
+│   ├── events.data.js
+│   ├── home.data.js
+│   └── pageAnalyst.data.js
+│
+├── helpers/
+│   └── signup.helper.js
+│
+└── specs/
+    └── home.spec.js
+
