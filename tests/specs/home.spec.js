@@ -1,8 +1,8 @@
 // @ts-check
 const { test } = require("@playwright/test");
-const { validSignUp } = require("./helpers/signup.helper");
-const events = require("./data/events.data");
-const home = require("./data/home.data");
+const { validSignUp } = require("../helpers/signup.helper");
+const events = require("../data/events.data");
+const home = require("../data/home.data");
 
 test.describe("Valida botões dos proxímos eventos do mês", () => {
   test.beforeEach(async ({ page }) => {
